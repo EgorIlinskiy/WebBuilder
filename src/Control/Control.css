@@ -1,0 +1,13 @@
+.ControlList {
+    background-color: #fff;
+    min-height: 60vh;
+    padding-top: 10px;
+}
+
+.ControlList div {
+    margin: 10px;
+}
+
+.ControlList span {
+    font-style: italic;
+}

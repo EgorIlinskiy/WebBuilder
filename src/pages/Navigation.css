@@ -1,0 +1,25 @@
+.PageLink {
+    text-decoration: none;
+    cursor: pointer;
+    color: black;
+    margin: 0 10px;
+    transition: 0.1s;
+}
+
+.active {
+    color: #1976d2;
+    font-weight: bold;
+}
+
+.PageLink:hover {
+    color: #1976d2;
+}
+
+.NavBar {
+    position: relative;
+    background-color: #fff;
+    display: flex;
+    height: 45px;
+    align-items: center;
+    margin-bottom: 20px;
+}
